@@ -1,2 +1,3 @@
 # portfolio
-Osco`s portfolio
+Osco`s portfolioSUED PYTHON HTML5 CSS JS TO BUILD IT 
+USED DJANGO FRAMEWORK ALSO 
